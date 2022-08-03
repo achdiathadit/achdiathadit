@@ -1,5 +1,5 @@
 ## 💫About Me
-A former corporate strategist who switched careers to become a full-stack developer. Have almost 2 years of professional experience in coding and building products using Javascript and its environment.
+A former corporate strategist who switched careers to become a full-stack developer. Loves coding and building products using Javascript and its environment.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achdiat-hadit/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC99tWCN_0aIB6E0sCKB8OoA) 
